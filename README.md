@@ -12,13 +12,18 @@ Change the user_id in the script to get personalized suggestions:
 
 '''
 user_id = 104
+
 recommend_movies_for_user(user_id, X, user_mapper, movie_mapper, movie_inv_mapper, k=10)
 '''
 
 Output:
 
 Since you watched this, you might also like:
+
 Out Cold (2001)
+
 Pi (1998)
+
 Hollywood Homicide (2003)
+
 Hudsucker Proxy, The (1994)
